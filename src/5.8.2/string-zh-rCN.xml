@@ -1427,7 +1427,7 @@ echo '$1' &gt;&gt; ~/.ssh/authorized_keys</string>
     <string name="new_local_menu_item">新建本地</string>
     <string name="new_passphrase">新的加密密码</string>
     <string name="new_password">新密码</string>
-    <string name="new_snippet_package_menu_item">新软件包</string>
+    <string name="new_snippet_package_menu_item">新建软件包</string>
     <string name="new_ssh_host_menu_item">新的SSH主机</string>
     <string name="new_ssh_identity_menu_item">新建身份</string>
     <string name="new_tag">新标签名称</string>
@@ -1567,7 +1567,7 @@ Pro功能</string>
     <string name="package_sharing_subtitle_2">这意味着您团队中的每个人都可以在此软件包中使用代码片段</string>
     <string name="package_sharing_subtitle_2s">这意味着您团队中的每个人都可以在这些软件包中使用代码片段</string>
     <string name="package_sharing_title">共享软件包</string>
-    <string name="packages_search_hint">搜索或创建一个新软件包</string>
+    <string name="packages_search_hint">搜索或新建软件包</string>
     <string name="packages_share_button_title">共享软件包</string>
     <string name="packages_sharing_title">共享软件包</string>
     <string name="parity_even_value">甚至</string>
@@ -2334,7 +2334,7 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="snippet_new">新建代码片段</string>
     <string name="snippet_not_executed">代码片段未执行</string>
     <string name="snippet_package_create_in_title">创建于</string>
-    <string name="snippet_package_creation_title">新软件包</string>
+    <string name="snippet_package_creation_title">新建软件包</string>
     <string name="snippet_package_edit_name_hint">名字</string>
     <string name="snippet_package_edition_title">编辑软件包</string>
     <string name="snippet_package_header">软件包</string>
