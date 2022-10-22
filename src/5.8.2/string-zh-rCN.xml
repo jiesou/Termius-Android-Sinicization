@@ -70,22 +70,22 @@
     <string name="alp_42447968_cmd_cancel">取消</string>
     <string name="alp_42447968_cmd_confirm">确认</string>
     <string name="alp_42447968_cmd_continue">继续</string>
-    <string name="alp_42447968_cmd_forgot_pattern">忘记模式？</string>
+    <string name="alp_42447968_cmd_forgot_pattern">忘记图案？</string>
     <string name="alp_42447968_cmd_retry">重试</string>
     <string name="alp_42447968_loading">加载中…</string>
     <string name="alp_42447968_lockscreen_access_pattern_cell_added">添加了单元格</string>
-    <string name="alp_42447968_lockscreen_access_pattern_cleared">模式清除</string>
-    <string name="alp_42447968_lockscreen_access_pattern_detected">模式完成</string>
-    <string name="alp_42447968_lockscreen_access_pattern_start">模式开始</string>
+    <string name="alp_42447968_lockscreen_access_pattern_cleared">图案已清除</string>
+    <string name="alp_42447968_lockscreen_access_pattern_detected">图案已完成</string>
+    <string name="alp_42447968_lockscreen_access_pattern_start">图案开始</string>
     <string name="alp_42447968_msg_connect_4dots">连接至少4个点。
 再试一次…</string>
-    <string name="alp_42447968_msg_draw_an_unlock_pattern">绘制解锁模式</string>
+    <string name="alp_42447968_msg_draw_an_unlock_pattern">绘制解锁图案</string>
     <string name="alp_42447968_msg_draw_pattern_to_unlock">绘制图案以解锁</string>
-    <string name="alp_42447968_msg_pattern_recorded">记录模式</string>
-    <string name="alp_42447968_msg_redraw_pattern_to_confirm">重绘图案确认</string>
+    <string name="alp_42447968_msg_pattern_recorded">图案已记录</string>
+    <string name="alp_42447968_msg_redraw_pattern_to_confirm">重绘图案以确认</string>
     <string name="alp_42447968_msg_release_finger_when_done">完成后释放手指</string>
     <string name="alp_42447968_msg_try_again">抱歉，请再试一次</string>
-    <string name="alp_42447968_msg_your_new_unlock_pattern">您的新解锁模式</string>
+    <string name="alp_42447968_msg_your_new_unlock_pattern">您的新解锁图案</string>
     <string name="already_entitled">您已经有权获得订阅。您可以使用帐户登录。</string>
     <string name="already_has_this_subscription">您已经有这个订阅！</string>
     <string name="already_have_account_hint">已经有一个与此电子邮箱地址关联的帐户。请输入您的密码登录</string>
@@ -107,8 +107,8 @@ Termius已锁定%d分钟。</string>
     <string name="app_lock_unlock_using_method_after_one_minute">1分钟后使用%s解锁</string>
     <string name="app_lock_unlock_using_method_immediately">立即使用%s解锁</string>
     <string name="app_lock_when_to_lock_app">何时锁定应用程序</string>
-    <string name="app_lock_wrong_pattern">错误的模式。</string>
-    <string name="app_lock_wrong_pattern_attempts_left">错误的模式。您还有%d的尝试。</string>
+    <string name="app_lock_wrong_pattern">错误的图案</string>
+    <string name="app_lock_wrong_pattern_attempts_left">错误的图案。您还有 %d 次尝试机会</string>
     <string name="app_lock_wrong_pin_attempts_left">错误的 PIN。您还有 %d 次尝试机会</string>
     <string name="app_name">Termius</string>
     <string name="app_rate_header">享受Termius？</string>
@@ -161,7 +161,7 @@ Termius已锁定%d分钟。</string>
     <string name="back_up_and_sync_snippets">代码片段</string>
     <string name="back_up_and_sync_ssh_keys">SSH 密钥</string>
     <string name="back_up_and_sync_title">备份并同步</string>
-    <string name="backward_sftp">落后</string>
+    <string name="backward_sftp">后退</string>
     <string name="bad_request_error">不良请求错误</string>
     <string name="basic_plan_overview_card_description">用于小型项目和
 在一台设备上使用个人使用。</string>
@@ -200,13 +200,13 @@ Termius已锁定%d分钟。</string>
     <string name="chaining_hosts_desc_child">使用跳跃主机功能在主机之间跳跃，并通过整个流量转发整个流量。通过安全网关完全访问内部机器。</string>
     <string name="chaining_hosts_field_title">链式主机</string>
     <string name="change_and_connect_fragment">复制</string>
-    <string name="change_email_btn">更改邮箱</string>
+    <string name="change_email_btn">更改电子邮箱</string>
     <string name="change_email_confirmation_passphrase">确认密码</string>
     <string name="change_email_confirmation_password">确认密码</string>
     <string name="change_email_incorrect_passphrase">不正确的密码。</string>
     <string name="change_email_password_invalid">密码无效。</string>
     <string name="change_item">改变</string>
-    <string name="change_lock_pattern">更改锁定模式</string>
+    <string name="change_lock_pattern">更改锁定图案</string>
     <string name="change_master_passphrase_title">更改加密密码</string>
     <string name="change_master_password_dialog_message">PLESE提供了新密码</string>
     <string name="change_master_password_dialog_title">更改密码</string>
@@ -217,7 +217,7 @@ Termius已锁定%d分钟。</string>
     <string name="change_password_btn">更改密码</string>
     <string name="change_pin_code">更改 PIN 码</string>
     <string name="change_user_dialog_text_hint">新邮箱</string>
-    <string name="change_user_dialog_title">更改邮箱</string>
+    <string name="change_user_dialog_title">更改电子邮箱</string>
     <string name="change_username_messsage">您将使用此电子邮箱登录和恢复帐户</string>
     <string name="character_counter_content_description">字符输入%1$d of%2$d</string>
     <string name="character_counter_overflowed_content_description">角色限制超过%1$d的%2$d</string>
@@ -326,7 +326,7 @@ Termius已锁定%d分钟。</string>
     <string name="copy_all">复制全部</string>
     <string name="copy_biometric_public_key_buffer">将公钥复制到缓冲区</string>
     <string name="copy_download_link_label">复制下载链接</string>
-    <string name="copy_finished">复制到剪贴板</string>
+    <string name="copy_finished">已复制到剪贴板</string>
     <string name="copy_invitation_link">复制邀请链接</string>
     <string name="copy_paste_menu_copy">复制</string>
     <string name="copy_paste_menu_google">Google</string>
@@ -360,7 +360,7 @@ Termius 或其他应用程序无法访问私钥。因此，密钥不会同步到
     <string name="create_biometric_keys_required_field">必填项目</string>
     <string name="create_biometric_ssh_key_screen_title">生成生物识别密钥</string>
     <string name="create_free_termius_account">创建一个免费的 Termius 帐户：</string>
-    <string name="create_in_snippets">创建</string>
+    <string name="create_in_snippets">创建于</string>
     <string name="create_new_group">新建主机组</string>
     <string name="create_new_host">新的SSH主机</string>
     <string name="create_new_host_recycler_item_title">创建一个新主机</string>
@@ -573,7 +573,7 @@ Termius 或其他应用程序无法访问私钥。因此，密钥不会同步到
     <string name="dialog_message_merge_issue">我们无法在服务器上正确合并您的一些数据&lt;br&gt; &lt;br&gt;问题集为&lt;b&gt;%1$s&lt;/b&gt; &lt;br&gt;有问题的对象是 &lt;b&gt;%2$s&lt;/b&gt; &lt;br&gt; &lt;br&gt;我们可以通过帮助清理和下载服务器的数据来自动解决此问题，但是这样可能会泄露您的一些未发送数据&lt;br&gt; &lt;br&gt;您想自动还是手动解决合并冲突？</string>
     <string name="dialog_message_no_kerberos">Kerberos auth尚未得到支持。
 但是您可以在我们的USERVOICE网站上投票。这有助于更早地接收它。</string>
-    <string name="dialog_message_request_identity">请提供连接的身份</string>
+    <string name="dialog_message_request_identity">请提供连接身份</string>
     <string name="dialog_negative_export_key">取消</string>
     <string name="dialog_positive_export_key">出口</string>
     <string name="dialog_positive_merge_issue">是的，自动</string>
@@ -659,7 +659,7 @@ Termius 或其他应用程序无法访问私钥。因此，密钥不会同步到
     <string name="email_verification">电子邮件验证</string>
     <string name="empty"></string>
     <string name="empty_directory">空目录</string>
-    <string name="empty_hint_command_history">运行命令后，
+    <string name="empty_hint_command_history">运行命令后
 它将出现在此日志中</string>
     <string name="empty_hint_history">您的历史记录将在您的历史日志开始之后开始
 第一个终端会话完成。</string>
@@ -670,7 +670,7 @@ SSH，Mosh，Telnet 或本地主机</string>
     <string name="empty_hint_hosts_group_member">这个主机组没有
 包含任何主机</string>
     <string name="empty_hint_hosts_search">找不到主机或主机组</string>
-    <string name="empty_hint_known_hosts">当您首次连接到主机，
+    <string name="empty_hint_known_hosts">您首次连接到主机时
 它的公钥将出现在这里</string>
     <string name="empty_hint_pfrules">使用端口转发规则
 重定向通信请求</string>
@@ -680,8 +680,7 @@ SSH，Mosh，Telnet 或本地主机</string>
     <string name="empty_hint_s3_buckets">没有水桶。</string>
     <string name="empty_hint_search">找不到“%1$s”的结果</string>
     <string name="empty_hint_snippets">代码片段是预定义的 shell 脚本
-添加代码片段能方便
-地运行任何命令</string>
+添加代码片段能方便地运行任何命令</string>
     <string name="empty_hint_snippets_team">与您的团队共享代码片段
 确保您的团队获得最高的生产力</string>
     <string name="empty_hint_snippets_team_member">当您团队中的某人共享
@@ -736,8 +735,8 @@ SSH，Mosh，Telnet 或本地主机</string>
     <string name="env_variables_premium">环境变量</string>
     <string name="env_variables_premium_desc">将环境变量传递到SSH会话中</string>
     <string name="env_variables_premium_desc_child">在SSH会话中使用环境变量。设置主机的环境变量以传递到连接时会话并影响会话。</string>
-    <string name="env_variables_variable_name">多变的</string>
-    <string name="env_variables_variable_value">价值</string>
+    <string name="env_variables_variable_name">变量</string>
+    <string name="env_variables_variable_value">值</string>
     <string name="environment_variables">环境变量</string>
     <string name="error_dialog_title">错误</string>
     <string name="error_duplicate_tag_name">标签名称已经存在</string>
@@ -826,7 +825,7 @@ SSH，Mosh，Telnet 或本地主机</string>
     <string name="forgot_passphrase_question">忘记密码？</string>
     <string name="forgot_password">忘记密码？</string>
     <string name="forward_sftp">转发</string>
-    <string name="fragment_licenses_retrofit">Retrofit</string>
+    <string name="fragment_licenses_retrofit">改造</string>
     <string name="fragment_licenses_we_use">我们使用的库</string>
     <string name="fragment_licenses_yubioath">yubioath-android</string>
     <string name="free_plan_premium_are_not_available_buy">免费计划。
@@ -846,8 +845,8 @@ SSH，Mosh，Telnet 或本地主机</string>
     <string name="generate_item">产生</string>
     <string name="generate_new_ssh_biometric_key">生成生物识别密钥</string>
     <string name="generate_new_ssh_key">生成密钥</string>
-    <string name="generic_error_no_device_credential">没有引脚，图案或密码集。</string>
-    <string name="generic_error_no_keyguard">该设备不支持PIN，图案或密码。</string>
+    <string name="generic_error_no_device_credential">没有 PIN，图案或密码集</string>
+    <string name="generic_error_no_keyguard">该设备不支持 PIN，图案或密码</string>
     <string name="generic_error_user_canceled">身份验证被用户取消</string>
     <string name="gesture_promote_got_it_button">知道了！</string>
     <string name="gesture_promote_text">要用触摸手势模拟箭头键、PageUp、PageDown、Home 和 End，请点此按钮
@@ -868,7 +867,7 @@ SSH，Mosh，Telnet 或本地主机</string>
     <string name="google_search_link">https://www.google.com/search?q=%1$s</string>
     <string name="google_storage_bucket">termius-dev-49478.appspot.com</string>
     <string name="grant_access_pop_up_description">您的团队成员接受了他们的邀请。请确认他们开始协作的访问。</string>
-    <string name="group_permission">主机组</string>
+    <string name="group_permission">用户组</string>
     <string name="group_port_edit_hint">端口</string>
     <string name="group_section_header">主机组</string>
     <string name="group_sharing_cta_part1">要共享主机链，请将这些主机移至</string>
@@ -1197,8 +1196,8 @@ Plan: %s
     <string name="lock_feature">图案锁</string>
     <string name="lock_feature_desc">比 PIN 保护更安全</string>
     <string name="lock_feature_desc_child">图案锁是老式 PIN 授权方法的更安全替代方案</string>
-    <string name="lock_pattern_error_toast">抱歉，您尝试使用不正确的模式解锁5次。
-请稍后再试。</string>
+    <string name="lock_pattern_error_toast">抱歉，您已尝试 5 次使用不正确的模式解锁
+请稍后再试</string>
     <string name="lock_pattern_pref_titile">图案锁</string>
     <string name="lock_pattern_time">锁定时间</string>
     <string name="lock_widget_list_text">仅适用于专业订户。
@@ -1226,7 +1225,7 @@ Plan: %s
     <string name="master_password_logout_button">登出并删除未同步数据</string>
     <string name="master_password_lost_data_title">如果您注销，则将丢失以下未同步的数据：</string>
     <string name="master_password_lost_data_value">4 台主机，5 条密钥，1 条端口转发规则，63 条会话日志</string>
-    <string name="master_password_unlock_button">开锁</string>
+    <string name="master_password_unlock_button">解锁</string>
     <string name="mater_password_hint">主密码</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">选择AM或PM</string>
@@ -1421,7 +1420,7 @@ echo '$1' &gt;&gt; ~/.ssh/authorized_keys</string>
     <string name="new_crypto_title">新加密</string>
     <string name="new_crypto_we_ve_sent_code_resend">我们已将代码发送到您的电子邮箱。重新发送验证码？</string>
     <string name="new_crypto_we_ve_sent_code_timer">我们已将代码发送到您的电子邮箱。您可在 %1$d 秒后重新发送</string>
-    <string name="new_dir_menu">新的DIR</string>
+    <string name="new_dir_menu">新建路径</string>
     <string name="new_group">新建按键组</string>
     <string name="new_group_menu_item">新建主机组</string>
     <string name="new_host_menu_item">新建主机</string>
@@ -1451,7 +1450,7 @@ echo '$1' &gt;&gt; ~/.ssh/authorized_keys</string>
     <string name="no_saved_history">没有历史</string>
     <string name="no_saved_history_hint">您的历史记录将在您的第一个开始之后开始
  终端会话完成。</string>
-    <string name="no_saved_known_hosts">没有已知的主人</string>
+    <string name="no_saved_known_hosts">没有已知主机</string>
     <string name="no_saved_snippets">没有代码片段</string>
     <string name="no_saved_snippets_hint">点击右下角的 +按钮
 添加您的第一个片段。</string>
@@ -1464,7 +1463,7 @@ echo '$1' &gt;&gt; ~/.ssh/authorized_keys</string>
     <string name="no_thanks">不，谢谢</string>
     <string name="not_active">不活跃</string>
     <string name="not_connected">未连接</string>
-    <string name="not_enough_value_features">没有足够的价值/功能</string>
+    <string name="not_enough_value_features">没有足够的值/特性</string>
     <string name="not_happy">不开心</string>
     <string name="not_set">没有设置</string>
     <string name="not_verified">未验证</string>
@@ -1485,7 +1484,7 @@ echo '$1' &gt;&gt; ~/.ssh/authorized_keys</string>
     <string name="notifications_loading_text">查询更新...</string>
     <string name="notifications_you_are_up_to_date">您已更新至最新！</string>
     <string name="notify_me_onboarding_feedback">当发布重大更新或重要功能时，通知我</string>
-    <string name="octal_view_permission">八元</string>
+    <string name="octal_view_permission">八进制</string>
     <string name="ok">好的</string>
     <string name="old_passphrase">旧加密密码</string>
     <string name="old_password">旧密码</string>
@@ -1554,9 +1553,9 @@ Pro功能</string>
 您的所有数据被都安全地备份和加密，只要更新应用您就能访问它们</string>
     <string name="outdate_screen_title">更新应用程序</string>
     <string name="outdated_app_error_message">应用已过时。请更新该应用。</string>
-    <string name="owner_permission">用户</string>
-    <string name="ownership_permission">所有权</string>
-    <string name="package_create_immutable_title">创造</string>
+    <string name="owner_permission">所有者</string>
+    <string name="ownership_permission">所有者和用户组</string>
+    <string name="package_create_immutable_title">创建</string>
     <string name="package_create_tip_lamp_emoji">&#65533;&#65533;</string>
     <string name="package_delete_message">您要删除选定的软件包吗？</string>
     <string name="package_hint_text">软件包</string>
@@ -1614,7 +1613,7 @@ Pro功能</string>
 每月</string>
     <string name="per_year_stub">…
 每年</string>
-    <string name="permissions_title">文件访问</string>
+    <string name="permissions_title">文件权限</string>
     <string name="pf_help_show">帮助</string>
     <string name="pf_rule_notification_title">PF规则</string>
     <string name="pf_rules_fragment">端口转发规则</string>
@@ -1772,7 +1771,7 @@ Pro 特性不可用
     <string name="proxy_edit">编辑代理</string>
     <string name="proxy_feature">SSH 代理</string>
     <string name="proxy_feature_desc">通过 HTTP 或 SOCKS5 代理访问 SSH / SFTP </string>
-    <string name="proxy_feature_desc_child">绕过网络边界和限制，并通过防止在旁边窃听来增加隐私和安全性。</string>
+    <string name="proxy_feature_desc_child">绕过网络边界和限制，并通过防止窃听来增加隐私和安全性</string>
     <string name="proxy_field_title">代理</string>
     <string name="proxy_http_default_port">3128</string>
     <string name="proxy_new">新代理</string>
@@ -1802,7 +1801,7 @@ Pro 特性不可用
     <string name="quick_import_label">快速导入</string>
     <string name="quick_import_mobaxterm_option_label">MobaXterm</string>
     <string name="quick_import_putty_option_label">PuTTY</string>
-    <string name="quick_import_securecrt_option_label">Securecrt</string>
+    <string name="quick_import_securecrt_option_label">SecureCRT</string>
     <string name="quick_import_ssh_config_option_label">~/.ssh/config</string>
     <string name="quick_import_step_choose_files_to_import">选择要导入的文件</string>
     <string name="quick_import_step_configure_credentials">配置 %s 凭据</string>
@@ -1883,7 +1882,7 @@ Pro 特性不可用
     <string name="request_throttled_undefined">请求限制。稍后再试。</string>
     <string name="request_trial_extension">请求试用扩展</string>
     <string name="request_trial_extension_dialog_title">处理您的扩展请求...</string>
-    <string name="requesting_fingerprint">请求指纹</string>
+    <string name="requesting_fingerprint">指纹请求</string>
     <string name="requesting_passphrase">请求密码</string>
     <string name="requesting_password">请求密码</string>
     <string name="requesting_username">请求用户名</string>
@@ -1924,7 +1923,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
     <string name="role_sending_invite_label">%1$s · 发送邀请</string>
     <string name="root_group">根组</string>
     <string name="root_groups">根组</string>
-    <string name="root_sftp">根</string>
+    <string name="root_sftp">根目录</string>
     <string name="rooted_notification_message">我们已经检测到当前的设备已被 ROOT。您的数据可能有风险</string>
     <string name="rooted_notification_title">检测到根的设备</string>
     <string name="rsa_1024_title">1024</string>
@@ -2023,7 +2022,7 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="set_changed_password">您的会话已经过期。请提供您的密码</string>
     <string name="set_encryption_passphrase_short_title">设置数据加密</string>
     <string name="set_encryption_passphrase_title">设置数据加密密码</string>
-    <string name="set_new_code">设置新的PIN码</string>
+    <string name="set_new_code">设置新的 PIN 码</string>
     <string name="set_password_hint">设置密码</string>
     <string name="set_the_passphrase">设置密码</string>
     <string name="settings_about_category_title">关于</string>
@@ -2038,7 +2037,7 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="settings_app_category_title">应用程序prefs</string>
     <string name="settings_appearance_category_title">外观</string>
     <string name="settings_background_timeout_title">后台连接超时</string>
-    <string name="settings_backspace_title">Backspace符号</string>
+    <string name="settings_backspace_title">Backspace 符号</string>
     <string name="settings_bell_disabled">禁用</string>
     <string name="settings_bell_none">没有任何</string>
     <string name="settings_bell_sound">声音</string>
@@ -2052,7 +2051,7 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="settings_connection_timeout_title">连接超时</string>
     <string name="settings_create_account_title">创建账户</string>
     <string name="settings_cursor_speed_title">光标速度</string>
-    <string name="settings_detect_os_title">检测操作系统</string>
+    <string name="settings_detect_os_title">检测操作系统来显示图标</string>
     <string name="settings_empty_field_validation">空字段</string>
     <string name="settings_emulation_type_title">终端类型</string>
     <string name="settings_fingerprint_key_binding_category_title">触控手势</string>
@@ -2146,13 +2145,13 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="settings_never">永不</string>
     <string name="settings_notification_category_title">通知</string>
     <string name="settings_notification_expanded_summary">在通知栏中显示连接</string>
-    <string name="settings_notification_expanded_title">通知扩展</string>
+    <string name="settings_notification_expanded_title">扩展的通知</string>
     <string name="settings_notification_icon_summary">接收通知</string>
     <string name="settings_notification_icon_title">接收通知</string>
     <string name="settings_null_apikey_title">帐户设置</string>
     <string name="settings_other_category_title">其他</string>
     <string name="settings_parse_shell_history">导入</string>
-    <string name="settings_parse_shell_history_summary">自动完成和命令历史记录所需</string>
+    <string name="settings_parse_shell_history_summary">自动完成和访问命令历史记录所需</string>
     <string name="settings_pin_code_automatically_lock">自动锁定</string>
     <string name="settings_pin_code_category_title">安全与隐私</string>
     <string name="settings_pin_code_time_summary_format">%s 后</string>
@@ -2163,10 +2162,10 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="settings_rate_title">评价 Termius</string>
     <string name="settings_seconds">秒</string>
     <string name="settings_session_category_title">会话</string>
-    <string name="settings_shake_category_title">摇动设备</string>
+    <string name="settings_shake_category_title">摇动</string>
     <string name="settings_shake_sens_title">摇动灵敏度</string>
     <string name="settings_shake_summary">摇动绑定</string>
-    <string name="settings_shake_tilte">摇动设备</string>
+    <string name="settings_shake_tilte">摇动</string>
     <string name="settings_ssh_agent_title">SSH 代理转发</string>
     <string name="settings_summary_default">%s</string>
     <string name="settings_summary_format_lines">%s 行</string>
@@ -2196,7 +2195,7 @@ echo '$3' &gt;&gt; "$1/$2";</string>
 %s</string>
     <string name="sftp_connect_to_cancelable">连接到
 %s
-（点击此处取消）</string>
+（点此取消）</string>
     <string name="sftp_copy_path">复制路径</string>
     <string name="sftp_default_folder_name">新建文件夹</string>
     <string name="sftp_editor_hint_custom">输入文件的自定义命令</string>
@@ -2252,7 +2251,7 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="sftp_remote_file_select_editor_message">请选择远程文件编辑器：</string>
     <string name="sftp_remote_file_select_editor_positive_button_text">继续</string>
     <string name="sftp_remote_file_select_editor_title">选择文件编辑器</string>
-    <string name="sftp_rename">改名</string>
+    <string name="sftp_rename">重命名</string>
     <string name="sftp_rename_dialog_title">重新命名文件</string>
     <string name="sftp_scp_dialog_message">该文件看起来很大，并且像往常一样将其通过设备传输，可能会耗尽电池电量。另一个选项是运行终端SCP命令，直接从主机到主机进行操作。</string>
     <string name="sftp_scp_dialog_title">注意到大数据</string>
@@ -2260,11 +2259,11 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="sftp_scp_positive_button_text">是的，使用SCP命令</string>
     <string name="sftp_scp_seekbar_title">通过设备操作的最大文件大小</string>
     <string name="sftp_script_path">脚本路径</string>
-    <string name="sftp_send_copy">传送到</string>
+    <string name="sftp_send_copy">传输到</string>
     <string name="sftp_settings">SFTP 设置</string>
     <string name="sftp_toast_tem_folder_creation_error">可以创建本地临时文件夹</string>
     <string name="sftp_toast_wrong_file">可以打开文件</string>
-    <string name="sftp_transfer_title">转移进度</string>
+    <string name="sftp_transfer_title">传输进度</string>
     <string name="share_a_link_to_termius">分享 Termius
 应用链接</string>
     <string name="share_credentials">共享凭据</string>
@@ -2293,10 +2292,10 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="shh_keys_header_title">SSH 密钥</string>
     <string name="shh_multi_keys_header_title">Multikeys</string>
     <string name="shortcut_already_in_group">已经在主机组中了</string>
-    <string name="shortcut_groups_deleted">组删除</string>
+    <string name="shortcut_groups_deleted">按键组已删除</string>
     <string name="shortcuts_edit_empty_error_toast">请选择快捷方式</string>
     <string name="shortcuts_edit_group_title">编辑组</string>
-    <string name="shortcuts_group_deleted_snackbar">组删除</string>
+    <string name="shortcuts_group_deleted_snackbar">按键组已删除</string>
     <string name="shortcuts_option_menu_restore_default">还原为默认</string>
     <string name="shortcuts_promo_text">排序下面的面板来确定终端键盘中显示的按键</string>
     <string name="shortcuts_restore_button">恢复</string>
@@ -2329,12 +2328,12 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="snippet_edit_script">脚本</string>
     <string name="snippet_editor_package_state_personal">个人</string>
     <string name="snippet_editor_package_state_team">团队</string>
-    <string name="snippet_editor_package_state_title">创建</string>
+    <string name="snippet_editor_package_state_title">创建于</string>
     <string name="snippet_executed">代码片段成功执行</string>
     <string name="snippet_list_footer_script">脚本</string>
     <string name="snippet_new">新建代码片段</string>
     <string name="snippet_not_executed">代码片段未执行</string>
-    <string name="snippet_package_create_in_title">创建</string>
+    <string name="snippet_package_create_in_title">创建于</string>
     <string name="snippet_package_creation_title">新软件包</string>
     <string name="snippet_package_edit_name_hint">名字</string>
     <string name="snippet_package_edition_title">编辑软件包</string>
@@ -2346,7 +2345,7 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="snippet_sharing_subtitle_1">您将与您的团队共享此代码片段：</string>
     <string name="snippet_sharing_subtitle_1s">您将与您的团队共享 %d 条代码片段：</string>
     <string name="snippet_sharing_subtitle_2">这意味着您团队中的每个人都可以使用此片段。</string>
-    <string name="snippet_sharing_subtitle_2s">这意味着您团队中的每个人都可以使用这些片段。</string>
+    <string name="snippet_sharing_subtitle_2s">这意味着您团队中的每个人都可以使用这些代码片段</string>
     <string name="snippet_sharing_successful">共享成功！</string>
     <string name="snippet_sharing_title">共享代码片段</string>
     <string name="snippet_status_connection_refused">连接被拒绝</string>
@@ -2400,7 +2399,7 @@ Termius 已锁定</string>
     <string name="ssh_pin_code_7">7</string>
     <string name="ssh_pin_code_8">8</string>
     <string name="ssh_pin_code_9">9</string>
-    <string name="ssh_pin_code_enter_passcode_title">输入PIN代码</string>
+    <string name="ssh_pin_code_enter_passcode_title">输入 PIN 码</string>
     <string name="ssh_port_default_value">22</string>
     <string name="ssh_tag">SSH</string>
     <string name="sso_or_login">或</string>
@@ -2451,7 +2450,7 @@ Termius 已锁定</string>
     <string name="tag_error">Yubikey Communication中的错误！</string>
     <string name="tags">标签</string>
     <string name="take_me_home">带我回家</string>
-    <string name="targets_snippet_default_hosts_title">目标/s</string>
+    <string name="targets_snippet_default_hosts_title">目标</string>
     <string name="teacher_subscription_active">教师订阅活跃</string>
     <string name="teacher_subscription_has_expired">教师订阅</string>
     <string name="team_info_manage_title">管理…</string>
@@ -2759,10 +2758,11 @@ Termius 博客</string>
     <string name="unknown_price_stub">...</string>
     <string name="unknown_request_error">看起来此请求有错误。请再试一次。</string>
     <string name="unknown_section_header">未知</string>
-    <string name="unlock_button_text">开锁</string>
+    <string name="unlock_button_text">解锁</string>
     <string name="unlock_description">SFTP，代码片段，代理转发</string>
     <string name="unlock_description_without_sftp">代码片段，代理转发</string>
-    <string name="unlock_description_without_snippets">启用跨平台同步，高级安全性，智能化和端口转发</string>
+    <string name="unlock_description_without_snippets">启用跨平台同步，高级安全性，
+自动化和端口转发</string>
     <string name="unlock_title">解锁 Pro 特性</string>
     <string name="unlock_with_master_encryption_passphrase">使用加密密码解锁</string>
     <string name="unlock_with_master_password">使用主密码解锁</string>
