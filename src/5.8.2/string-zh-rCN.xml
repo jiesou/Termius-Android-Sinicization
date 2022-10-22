@@ -140,7 +140,7 @@ Termius已锁定%d分钟。</string>
     <string name="aws_s3_specific_bucket_name_invalid">特定的存储桶名是无效的</string>
     <string name="back_label">后退</string>
     <string name="back_up_and_sync_biometric_keys">生物识别密钥</string>
-    <string name="back_up_and_sync_biometric_keys_description">由于它是设备的硬件一部分，因此无法在跨设备上同步生物识别密钥。</string>
+    <string name="back_up_and_sync_biometric_keys_description">由于它是设备的硬件一部分，因此无法在跨设备上同步生物识别密钥</string>
     <string name="back_up_and_sync_button_title">备份并同步</string>
     <string name="back_up_and_sync_credentials_description">选择是否要同步凭据</string>
     <string name="back_up_and_sync_data_entities_description">以下数据始终同步</string>
@@ -173,7 +173,7 @@ Termius已锁定%d分钟。</string>
     <string name="billing_address_no_email">%1$sbilling</string>
     <string name="billing_address_with_email">%1$sbilling?email=%2$s</string>
     <string name="biometric_ec_type_title">EC</string>
-    <string name="biometric_keys_public_key_copied">公钥已被复制</string>
+    <string name="biometric_keys_public_key_copied">公钥已复制</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">扩展一半</string>
     <string name="bound_address_text">地址</string>
@@ -324,7 +324,7 @@ Termius已锁定%d分钟。</string>
     <string name="copied">复制</string>
     <string name="copy">复制</string>
     <string name="copy_all">复制全部</string>
-    <string name="copy_biometric_public_key_buffer">将公钥复制到缓冲区</string>
+    <string name="copy_biometric_public_key_buffer">将公钥复制到剪切板</string>
     <string name="copy_download_link_label">复制下载链接</string>
     <string name="copy_finished">已复制到剪贴板</string>
     <string name="copy_invitation_link">复制邀请链接</string>
@@ -820,7 +820,7 @@ SSH，Mosh，Telnet 或本地主机</string>
     <string name="font_size_seek_bar_max">72</string>
     <string name="font_size_seek_bar_min">2</string>
     <string name="force_two_factor_auth_successfully_configured">双因素身份验证已成功配置</string>
-    <string name="forget_aws_credentials">忘记AWS凭证</string>
+    <string name="forget_aws_credentials">忘记 AWS 凭证</string>
     <string name="forgot_passphrase">忘记密码</string>
     <string name="forgot_passphrase_question">忘记密码？</string>
     <string name="forgot_password">忘记密码？</string>
@@ -1087,7 +1087,7 @@ Plan: %s
     <string name="import_search_sd_card">在SD卡上搜索</string>
     <string name="import_your_servers_title">导入您的服务器</string>
     <string name="inactive_connection">无效连接</string>
-    <string name="inactive_pf_rules">非活动端口转发规则</string>
+    <string name="inactive_pf_rules">非活跃端口转发规则</string>
     <string name="incorrect_file_size">不正确的文件</string>
     <string name="incorrect_passphrase">不正确的密码</string>
     <string name="incorrect_password">密码错误</string>
@@ -2386,7 +2386,7 @@ Termius 已锁定</string>
     <string name="ssh_key_gen_default_size">1024</string>
     <string name="ssh_key_gen_rsa">RSA</string>
     <string name="ssh_key_hint">密钥</string>
-    <string name="ssh_key_type_certificate_suffix">SSH凭证</string>
+    <string name="ssh_key_type_certificate_suffix">SSH 凭证</string>
     <string name="ssh_mosh">SSH/Mosh</string>
     <string name="ssh_multikey_footer">%1$s Multikey</string>
     <string name="ssh_pin_code_0">0</string>
