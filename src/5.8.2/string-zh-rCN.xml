@@ -70,22 +70,22 @@
     <string name="alp_42447968_cmd_cancel">取消</string>
     <string name="alp_42447968_cmd_confirm">确认</string>
     <string name="alp_42447968_cmd_continue">继续</string>
-    <string name="alp_42447968_cmd_forgot_pattern">忘记模式？</string>
+    <string name="alp_42447968_cmd_forgot_pattern">忘记图案？</string>
     <string name="alp_42447968_cmd_retry">重试</string>
     <string name="alp_42447968_loading">加载中…</string>
     <string name="alp_42447968_lockscreen_access_pattern_cell_added">添加了单元格</string>
-    <string name="alp_42447968_lockscreen_access_pattern_cleared">模式清除</string>
-    <string name="alp_42447968_lockscreen_access_pattern_detected">模式完成</string>
-    <string name="alp_42447968_lockscreen_access_pattern_start">模式开始</string>
+    <string name="alp_42447968_lockscreen_access_pattern_cleared">图案已清除</string>
+    <string name="alp_42447968_lockscreen_access_pattern_detected">图案已完成</string>
+    <string name="alp_42447968_lockscreen_access_pattern_start">图案开始</string>
     <string name="alp_42447968_msg_connect_4dots">连接至少4个点。
 再试一次…</string>
-    <string name="alp_42447968_msg_draw_an_unlock_pattern">绘制解锁模式</string>
+    <string name="alp_42447968_msg_draw_an_unlock_pattern">绘制解锁图案</string>
     <string name="alp_42447968_msg_draw_pattern_to_unlock">绘制图案以解锁</string>
-    <string name="alp_42447968_msg_pattern_recorded">记录模式</string>
-    <string name="alp_42447968_msg_redraw_pattern_to_confirm">重绘图案确认</string>
+    <string name="alp_42447968_msg_pattern_recorded">图案已记录</string>
+    <string name="alp_42447968_msg_redraw_pattern_to_confirm">重绘图案以确认</string>
     <string name="alp_42447968_msg_release_finger_when_done">完成后释放手指</string>
     <string name="alp_42447968_msg_try_again">抱歉，请再试一次</string>
-    <string name="alp_42447968_msg_your_new_unlock_pattern">您的新解锁模式</string>
+    <string name="alp_42447968_msg_your_new_unlock_pattern">您的新解锁图案</string>
     <string name="already_entitled">您已经有权获得订阅。您可以使用帐户登录。</string>
     <string name="already_has_this_subscription">您已经有这个订阅！</string>
     <string name="already_have_account_hint">已经有一个与此电子邮箱地址关联的帐户。请输入您的密码登录</string>
@@ -107,8 +107,8 @@ Termius已锁定%d分钟。</string>
     <string name="app_lock_unlock_using_method_after_one_minute">1分钟后使用%s解锁</string>
     <string name="app_lock_unlock_using_method_immediately">立即使用%s解锁</string>
     <string name="app_lock_when_to_lock_app">何时锁定应用程序</string>
-    <string name="app_lock_wrong_pattern">错误的模式。</string>
-    <string name="app_lock_wrong_pattern_attempts_left">错误的模式。您还有%d的尝试。</string>
+    <string name="app_lock_wrong_pattern">错误的图案</string>
+    <string name="app_lock_wrong_pattern_attempts_left">错误的图案。您还有 %d 次尝试机会</string>
     <string name="app_lock_wrong_pin_attempts_left">错误的 PIN。您还有 %d 次尝试机会</string>
     <string name="app_name">Termius</string>
     <string name="app_rate_header">享受Termius？</string>
@@ -206,7 +206,7 @@ Termius已锁定%d分钟。</string>
     <string name="change_email_incorrect_passphrase">不正确的密码。</string>
     <string name="change_email_password_invalid">密码无效。</string>
     <string name="change_item">改变</string>
-    <string name="change_lock_pattern">更改锁定模式</string>
+    <string name="change_lock_pattern">更改锁定图案</string>
     <string name="change_master_passphrase_title">更改加密密码</string>
     <string name="change_master_password_dialog_message">PLESE提供了新密码</string>
     <string name="change_master_password_dialog_title">更改密码</string>
@@ -846,8 +846,8 @@ SSH，Mosh，Telnet 或本地主机</string>
     <string name="generate_item">产生</string>
     <string name="generate_new_ssh_biometric_key">生成生物识别密钥</string>
     <string name="generate_new_ssh_key">生成密钥</string>
-    <string name="generic_error_no_device_credential">没有引脚，图案或密码集。</string>
-    <string name="generic_error_no_keyguard">该设备不支持PIN，图案或密码。</string>
+    <string name="generic_error_no_device_credential">没有 PIN，图案或密码集</string>
+    <string name="generic_error_no_keyguard">该设备不支持 PIN，图案或密码</string>
     <string name="generic_error_user_canceled">身份验证被用户取消</string>
     <string name="gesture_promote_got_it_button">知道了！</string>
     <string name="gesture_promote_text">要用触摸手势模拟箭头键、PageUp、PageDown、Home 和 End，请点此按钮
@@ -1197,8 +1197,8 @@ Plan: %s
     <string name="lock_feature">图案锁</string>
     <string name="lock_feature_desc">比 PIN 保护更安全</string>
     <string name="lock_feature_desc_child">图案锁是老式 PIN 授权方法的更安全替代方案</string>
-    <string name="lock_pattern_error_toast">抱歉，您尝试使用不正确的模式解锁5次。
-请稍后再试。</string>
+    <string name="lock_pattern_error_toast">抱歉，您已尝试 5 次使用不正确的模式解锁
+请稍后再试</string>
     <string name="lock_pattern_pref_titile">图案锁</string>
     <string name="lock_pattern_time">锁定时间</string>
     <string name="lock_widget_list_text">仅适用于专业订户。
@@ -1226,7 +1226,7 @@ Plan: %s
     <string name="master_password_logout_button">登出并删除未同步数据</string>
     <string name="master_password_lost_data_title">如果您注销，则将丢失以下未同步的数据：</string>
     <string name="master_password_lost_data_value">4 台主机，5 条密钥，1 条端口转发规则，63 条会话日志</string>
-    <string name="master_password_unlock_button">开锁</string>
+    <string name="master_password_unlock_button">解锁</string>
     <string name="mater_password_hint">主密码</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">选择AM或PM</string>
@@ -1772,7 +1772,7 @@ Pro 特性不可用
     <string name="proxy_edit">编辑代理</string>
     <string name="proxy_feature">SSH 代理</string>
     <string name="proxy_feature_desc">通过 HTTP 或 SOCKS5 代理访问 SSH / SFTP </string>
-    <string name="proxy_feature_desc_child">绕过网络边界和限制，并通过防止在旁边窃听来增加隐私和安全性。</string>
+    <string name="proxy_feature_desc_child">绕过网络边界和限制，并通过防止窃听来增加隐私和安全性</string>
     <string name="proxy_field_title">代理</string>
     <string name="proxy_http_default_port">3128</string>
     <string name="proxy_new">新代理</string>
@@ -2023,7 +2023,7 @@ echo '$3' &gt;&gt; "$1/$2";</string>
     <string name="set_changed_password">您的会话已经过期。请提供您的密码</string>
     <string name="set_encryption_passphrase_short_title">设置数据加密</string>
     <string name="set_encryption_passphrase_title">设置数据加密密码</string>
-    <string name="set_new_code">设置新的PIN码</string>
+    <string name="set_new_code">设置新的 PIN 码</string>
     <string name="set_password_hint">设置密码</string>
     <string name="set_the_passphrase">设置密码</string>
     <string name="settings_about_category_title">关于</string>
@@ -2400,7 +2400,7 @@ Termius 已锁定</string>
     <string name="ssh_pin_code_7">7</string>
     <string name="ssh_pin_code_8">8</string>
     <string name="ssh_pin_code_9">9</string>
-    <string name="ssh_pin_code_enter_passcode_title">输入PIN代码</string>
+    <string name="ssh_pin_code_enter_passcode_title">输入 PIN 码</string>
     <string name="ssh_port_default_value">22</string>
     <string name="ssh_tag">SSH</string>
     <string name="sso_or_login">或</string>
@@ -2759,7 +2759,7 @@ Termius 博客</string>
     <string name="unknown_price_stub">...</string>
     <string name="unknown_request_error">看起来此请求有错误。请再试一次。</string>
     <string name="unknown_section_header">未知</string>
-    <string name="unlock_button_text">开锁</string>
+    <string name="unlock_button_text">解锁</string>
     <string name="unlock_description">SFTP，代码片段，代理转发</string>
     <string name="unlock_description_without_sftp">代码片段，代理转发</string>
     <string name="unlock_description_without_snippets">启用跨平台同步，高级安全性，
