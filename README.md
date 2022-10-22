@@ -16,8 +16,14 @@
 
 ## 演示
 
-
+![主页](https://user-images.githubusercontent.com/84175239/197340293-0b822986-d4b5-4b54-8f49-f99c42ab335d.jpg)
+![新建本地](https://user-images.githubusercontent.com/84175239/197340294-286c61ad-cb6e-4a87-8325-0ffabcb2a86c.jpg)
+![终端](https://user-images.githubusercontent.com/84175239/197340292-3e4c1dc6-256f-49ca-a30a-a1a4366990b8.jpg)
 
 ## 如何使用
 
-下载存储库，将 `/src/[应用版本]/string-zh-rCN.xml` 替换至 Termius apk 包资源文件的对应位置即可（反编译resources.arsc）
+下载存储库，将 `/src/[应用版本]/string-zh-rCN.xml` 替换至 Termius apk 包资源文件的对应位置即可（反编译 `resources.arsc`）
+
+## 许可证
+
+[WTFPL](https://github.com/jiesou/Termius-Android-Sinicization/blob/main/LICENSE)
