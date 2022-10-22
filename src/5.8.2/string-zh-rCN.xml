@@ -736,8 +736,8 @@ SSH，Mosh，Telnet 或本地主机</string>
     <string name="env_variables_premium">环境变量</string>
     <string name="env_variables_premium_desc">将环境变量传递到SSH会话中</string>
     <string name="env_variables_premium_desc_child">在SSH会话中使用环境变量。设置主机的环境变量以传递到连接时会话并影响会话。</string>
-    <string name="env_variables_variable_name">多变的</string>
-    <string name="env_variables_variable_value">价值</string>
+    <string name="env_variables_variable_name">变量</string>
+    <string name="env_variables_variable_value">值</string>
     <string name="environment_variables">环境变量</string>
     <string name="error_dialog_title">错误</string>
     <string name="error_duplicate_tag_name">标签名称已经存在</string>
@@ -1464,7 +1464,7 @@ echo '$1' &gt;&gt; ~/.ssh/authorized_keys</string>
     <string name="no_thanks">不，谢谢</string>
     <string name="not_active">不活跃</string>
     <string name="not_connected">未连接</string>
-    <string name="not_enough_value_features">没有足够的价值/功能</string>
+    <string name="not_enough_value_features">没有足够的值/特性</string>
     <string name="not_happy">不开心</string>
     <string name="not_set">没有设置</string>
     <string name="not_verified">未验证</string>
@@ -1802,7 +1802,7 @@ Pro 特性不可用
     <string name="quick_import_label">快速导入</string>
     <string name="quick_import_mobaxterm_option_label">MobaXterm</string>
     <string name="quick_import_putty_option_label">PuTTY</string>
-    <string name="quick_import_securecrt_option_label">Securecrt</string>
+    <string name="quick_import_securecrt_option_label">SecureCRT</string>
     <string name="quick_import_ssh_config_option_label">~/.ssh/config</string>
     <string name="quick_import_step_choose_files_to_import">选择要导入的文件</string>
     <string name="quick_import_step_configure_credentials">配置 %s 凭据</string>
