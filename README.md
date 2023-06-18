@@ -12,7 +12,7 @@
 
 整体汉化率大概 70%+
 
-当前版本适用于 Termius for Android 5.8.2
+当前版本大概适用于 Termius for Android 5.8-5.9
 
 ## 演示
 
